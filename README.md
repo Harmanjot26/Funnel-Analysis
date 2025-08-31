@@ -91,14 +91,5 @@ These represent a typical customer journey in an e-commerce platform.
 - Run A/B test comparisons between countries or time periods
 - Predict conversion probabilities using ML models
 
----
 
-## 🧑‍💻 Author
-
-**Aditya Walia**  
-[GitHub](https://github.com/Aditya-Walia1) • [LinkedIn](https://www.linkedin.com/in/aditya-walia/)  
-
----
-
-## ⭐️ If this helped, drop a star!
 
